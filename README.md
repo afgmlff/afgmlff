@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## About me
+### About me
 
 - 🔭 I’m currently working on various Data Science projects;
 - 🌱 I’m currently learning Python, PHP and Ruby on Rails;
@@ -8,10 +8,10 @@
 - 😄 Pronouns: he/him;
 - ⚡ Fun fact: I want to be an astronault.
 
-## Stats
+### Stats
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=afgmlff)](https://github.com/anuraghazra/github-readme-stats)
 
-## Top programming Languages
+### Top programming Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afgmlff)](https://github.com/anuraghazra/github-readme-stats)
