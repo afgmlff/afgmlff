@@ -3,7 +3,7 @@
 ### About me
 
 - 🔭 I’m currently working on various Data Science projects;
-- 🌱 I’m currently learning Angular, TypeScript;
+- 🌱 I’m currently learning Angular, TypeScript, ReactJS;
 - 📫 How to reach me: aeciofgm2@gmail.com;
 - 😄 Pronouns: he/him.
 
