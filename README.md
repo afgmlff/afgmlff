@@ -3,8 +3,8 @@ https://aeciofgm.vercel.app/
 
 ### About me
 
-- 🔭 I’m currently working on various Data Science projects;
-- 🌱 I’m currently learning ReactJS, NodeJS, Typescript, Angular;
+- 🔭 I’m currently working on Software Development/Data Analysis projects;
+- 🌱 I’m currently working with Python, ReactJS, NodeJS;
 - 📫 How to reach me: aeciofgm2@gmail.com;
 - 😄 Pronouns: he/him.
 
